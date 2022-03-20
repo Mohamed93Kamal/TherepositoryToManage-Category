@@ -1,0 +1,17 @@
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Infrastructure.deps.json
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Infrastructure.dll
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\ref\Company.Infrastructure.dll
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Infrastructure.pdb
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.csproj.AssemblyReference.cache
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.AssemblyInfoInputs.cache
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.AssemblyInfo.cs
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.dll
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\ref\Company.Infrastructure.dll
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.pdb
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Core.dll
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Data.dll
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Data.pdb
+D:\Company\Company\Company.Infrastructure\bin\Debug\net5.0\Company.Core.pdb
+D:\Company\Company\Company.Infrastructure\obj\Debug\net5.0\Company.Infrastructure.csproj.CopyComplete
